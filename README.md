@@ -1,2 +1,2 @@
-# Netflix-Startup-Webpage-Clone
+# Responsive-Netflix-Startup-Webpage-Clone
 
